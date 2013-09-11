@@ -116,9 +116,9 @@ Gratis para que cualquier persona puede descargarla
 TODA la información debe ser accesible en un sólo archivo o a través de una API.
 <footer>
 <hr/>
-<p><b>Bulk:</b> A granel</p>
+<p><b>Bulk:</b> A granel, completa, en un conjunto</p>
 <p><b>API:</b> Conjunto de funciones disponibles y provistas por los mismos
-que publican la información que facilitan, la vida de los programadores</p>
+que publican la información, que facilitan la vida de los programadores</p>
 </footer>
 
 --
