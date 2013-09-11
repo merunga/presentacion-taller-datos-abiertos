@@ -10,7 +10,7 @@ style: bootstrap-combined.min.css
 --
 
 # Liberación de datos
-## Herramientas para hacerlo YA!
+<center><b>Herramientas para hacerlo YA!</b></center>
 
 --
 
@@ -107,7 +107,10 @@ Gratis para que cualquier persona puede descargarla
 
 --
 
-### Paso 3: Formato II
+### Paso 3: Formato
+
+## Disponible
+Gratis para que cualquier persona puede descargarla
 
 ## Bulk
 TODA la información debe ser accesible en un sólo archivo o a través de una API.
@@ -120,7 +123,7 @@ que publican la información que facilitan, la vida de los programadores</p>
 
 --
 
-### Paso 3: Formato III
+### Paso 3: Formato
 
 ## Formato abierto
 Independencia programas específicos
@@ -129,7 +132,7 @@ Independencia programas específicos
 
 --
 
-### Paso 3: Formato III
+### Paso 3: Formato
 
 ## Formato abierto
 Independencia programas específicos
@@ -143,7 +146,7 @@ Analizable por programas de computadora
 
 --
 
-### Paso 3: Formato III
+### Paso 3: Formato
 
 ## Formato abierto
 Independencia programas específicos
