@@ -165,14 +165,14 @@ JSON, XML, CSV, Hojas de cálculo, RDF, ANSI SQL
 
 --
 
-### Paso 3: Formato IV
+### Paso 3: Formato
 
 ## Data Cruda (sin pre-procesar)
 #Más datos
 
 --
 
-### Paso 3: Formato IV
+### Paso 3: Formato
 
 ## Data Cruda (sin pre-procesar)
 #Más datos
@@ -180,7 +180,7 @@ JSON, XML, CSV, Hojas de cálculo, RDF, ANSI SQL
 
 --
 
-### Paso 3: Formato IV
+### Paso 3: Formato
 
 ## Data Cruda (sin pre-procesar)
 #Más datos
@@ -191,7 +191,7 @@ JSON, XML, CSV, Hojas de cálculo, RDF, ANSI SQL
 
 ### Paso 4: Publíquelos ...
 
-* [datahub.io](http://http://datahub.io/): El lugar más popular. Permite subir datos, pero no és su funcionalidad estrella<br/>
+* [datahub.io](http://http://datahub.io/): El lugar más popular. Permite subir datos, pero no es su funcionalidad estrella<br/>
 
 * [Infochimps.com](http://infochimps.com) y [Talis.com](http://talis.com): Son gratis para gobiernos <br/>
 
