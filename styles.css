@@ -1,6 +1,11 @@
 body {
   background-color: #aaa !important;
 }
+.slide h5 {
+  font-size: 50pt;
+  line-height: 1em;
+  text-align: center;
+}
 .slide h1,
 .slide li {
   line-height: 1.2em;

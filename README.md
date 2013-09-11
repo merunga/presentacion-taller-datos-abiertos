@@ -43,9 +43,9 @@ style: bootstrap-combined.min.css
   </head>
   <tbody>
     <tr>
-      <td>Public Domain Dedication and License (PDDL)</td>
-      <td>no</td>
-      <td>no</td>
+      <td>Open Database License (ODC-ODbL) </td>
+      <td>si</td>
+      <td>si</td>
     </tr>
     <tr>
       <td>Attribution License (ODC-By)</td>
@@ -53,9 +53,9 @@ style: bootstrap-combined.min.css
       <td>no</td>
     </tr>
     <tr>
-      <td>Open Database License (ODC-ODbL) </td>
-      <td>si</td>
-      <td>si</td>
+      <td>Public Domain Dedication and License (PDDL)</td>
+      <td>no</td>
+      <td>no</td>
     </tr>
   </tbody>
 </table>
@@ -74,19 +74,89 @@ style: bootstrap-combined.min.css
   </head>
   <tbody>
     <tr style="background-color: white">
+      <td>Open Database License (ODC-ODbL) </td>
+      <td>si</td>
+      <td>si</td>
+    </tr>
+    <tr>
+      <td>Attribution License (ODC-By)</td>
+      <td>no</td>
+      <td>si</td>
+    </tr>
+    <tr>
       <td>Public Domain Dedication and License (PDDL)</td>
       <td>no</td>
       <td>no</td>
     </tr>
+  </tbody>
+</table>
+
+La más restrictiva de las licencias abiertas. Uno debe:
+
+* Atribuir a la fuente
+* Toda data derivada debe ser liberada bajo las mismas condiciones
+
+--
+
+### Paso 2: Licencia
+
+<table class="table">
+  <thead>
     <tr>
-      <td>Attribution License (ODC-By)</td>
-      <td>si</td>
-      <td>no</td>
+      <th>Licencia</th>
+      <th>Share-alike</th>
+      <th>Atribución</th>
     </tr>
+  </head>
+  <tbody>
     <tr>
       <td>Open Database License (ODC-ODbL) </td>
       <td>si</td>
       <td>si</td>
+    </tr>
+    <tr style="background-color: white">
+      <td>Attribution License (ODC-By)</td>
+      <td>no</td>
+      <td>si</td>
+    </tr>
+    <tr>
+      <td>Public Domain Dedication and License (PDDL)</td>
+      <td>no</td>
+      <td>no</td>
+    </tr>
+  </tbody>
+</table>
+
+Uno puede hacer lo que quiera con la data, siempre y cuando
+atribuya a la fuente.
+
+--
+
+### Paso 2: Licencia
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Licencia</th>
+      <th>Share-alike</th>
+      <th>Atribución</th>
+    </tr>
+  </head>
+  <tbody>
+    <tr>
+      <td>Open Database License (ODC-ODbL) </td>
+      <td>si</td>
+      <td>si</td>
+    </tr>
+    <tr>
+      <td>Attribution License (ODC-By)</td>
+      <td>no</td>
+      <td>si</td>
+    </tr>
+    <tr style="background-color: white">
+      <td>Public Domain Dedication and License (PDDL)</td>
+      <td>no</td>
+      <td>no</td>
     </tr>
   </tbody>
 </table>
@@ -104,6 +174,16 @@ Dominio público. Total libertad. Uno puede:
 
 ## Disponible
 Gratis para que cualquier persona puede descargarla
+
+--
+
+### Paso 3: Formato
+
+## Disponible
+Gratis para que cualquier persona puede descargarla
+
+## Bulk
+TODA la información debe ser accesible en un sólo archivo o a través de una API.
 
 --
 
@@ -168,27 +248,36 @@ JSON, XML, CSV, Hojas de cálculo, RDF, ANSI SQL
 ### Paso 3: Formato
 
 ## Data Cruda (sin pre-procesar)
-#Más datos
+#####Más datos
 
 --
 
 ### Paso 3: Formato
 
 ## Data Cruda (sin pre-procesar)
-#Más datos
-#Más granulares
+#####Más datos
+#####Más granulares
 
 --
 
 ### Paso 3: Formato
 
 ## Data Cruda (sin pre-procesar)
-#Más datos
-#Más granulares
-#Más ricos
+#####Más datos
+#####Más granulares
+#####Más ricos (mmmm!)
 
 --
 
+### Paso 3: Formato
+
+## Data Cruda (sin pre-procesar)
+#####Más datos
+#####Más granulares
+#####Más ricos (mmmm!)
+#####Menos chamba!!!
+
+--
 ### Paso 4: Publíquelos ...
 
 * [datahub.io](http://http://datahub.io/): El lugar más popular. Permite subir datos, pero no es su funcionalidad estrella<br/>
