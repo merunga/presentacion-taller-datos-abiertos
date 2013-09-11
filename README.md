@@ -10,7 +10,7 @@ style: bootstrap-combined.min.css
 --
 
 # Liberación de datos
-<center><b>Herramientas para hacerlo YA!</b></center>
+<center><b>Tips para hacerlo YA y BIEN</b></center>
 
 --
 
