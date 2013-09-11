@@ -1,7 +1,7 @@
-title: Herramientas para liberar datos ya
+title: Tips para para liberar datos rápido y bien
 author:
   name: "Mariano Crowe"
-  url: "mariano@escuelab.org"
+  url: "http://opendatahandbook.org/es/how-to-open-up-data/"
 output: index.html
 controls: true
 style: styles.css
